@@ -84,8 +84,8 @@ Knit, *commit, and push your changes to GitHub with an appropriate commit messag
 
 4.  Which states have the most and fewest Denny's locations? What about La Quinta? Is this surprising? Why or why not?
 
-For Denny's - Most
-
+Denny's the most = CA and the Feuest = DE
+La Quinta the most = TX and the feues = AG
 ```{r}
 dn %>%
     count(state) %>%
